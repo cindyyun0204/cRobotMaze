@@ -26,8 +26,8 @@ To run the simulation:
 
 
 ## Features
-- Grid Initialization: Sets up a 10x10 grid environment.
-- Robot and Home Initialization: Places the robot and home location on the grid.
+- Grid Initialisation: Sets up a 10x10 grid environment.
+- Robot and Home Initialisation: Places the robot and home location on the grid.
 - Marker and Block Placement: Randomly places markers and blocks on the grid.
 - Robot Movement: Allows the robot to move forward, turn left, and turn right.
 - Marker Pickup: The robot can pick up markers and carry them.
@@ -35,5 +35,5 @@ To run the simulation:
 - Obstacle Avoidance: The robot avoids blocks placed on the grid.
 
 
-## Customization
+## Customisation
 You can customize the initial position of the robot, its direction, and the number of markers and blocks by modifying the command line interface.
