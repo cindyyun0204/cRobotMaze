@@ -36,4 +36,4 @@ To run the simulation:
 
 
 ## Customisation
-You can customize the initial position of the robot, its direction, and the number of markers and blocks by modifying the command line interface.
+You can customise the initial position of the robot, its direction, and the number of markers and blocks by modifying the command line interface.
